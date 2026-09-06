@@ -1,3 +1,4 @@
+
 const songs = [
 
     {
@@ -68,9 +69,151 @@ const songs = [
         artist: "Sai Abhyankkar",
         src: "songs/song10.mp3",
         image: "images/song10.jpg"
+    },
+
+    {
+        title: "Aaruyire",
+        artist: "A. R. Rahman",
+        src: "songs/song11.mp3",
+        image: "images/song11.jpg"
+    },
+
+    {
+        title: "Adi Penne",
+        artist: "Stephen Zechariah",
+        src: "songs/song12.mp3",
+        image: "images/song12.jpg"
+    },
+
+    {
+        title: "Amali Thumali ",
+        artist: "Harris Jayaraj",
+        src: "songs/song13.mp3",
+        image: "images/song13.jpg"
+    },
+
+    {
+        title: "Anal Mele",
+        artist: " Harris Jayraj",
+        src: "songs/song14.mp3",
+        image: "images/song14.jpg"
+    },
+
+    {
+        title: "Ennai Kollathey ",
+        artist: " Ztish",
+        src: "songs/song15.mp3",
+        image: "images/song15.jpg"
+    },
+
+    {
+        title: "Innum Konjam Neram",
+        artist: "Ar Rahman",
+        src: "songs/song16.mp3",
+        image: "images/song16.jpg"
+    },
+
+    {
+        title: "Kannala Kannala ",
+        artist: "Hiphop Tamizha",
+        src: "songs/song17.mp3",
+        image: "images/song17.jpg"
+    },
+
+    {
+        title: "Koodamela Koodavechi",
+        artist: "Imman ",
+        src: "songs/song18.mp3",
+        image: "images/song18.jpg"
+    },
+
+    {
+        title: "Pookal Pookum",
+        artist: "G.V Prakash",
+        src: "songs/song19.mp3",
+        image: "images/song19.jpg"
+    },
+
+    {
+        title: "Raati (Madras Gig)",
+        artist: "Bamba Bakya",
+        src: "songs/song20.mp3",
+        image: "images/song20.jpg"
+    },
+
+    {
+        title: "Rooja Kadale",
+        artist: "Harris Jayaraj",
+        src: "songs/song21.mp3",
+        image: "images/song21.jpg"
+    },
+
+    {
+        title: "Vaarayo Vaarayo",
+        artist: "Harris Jayaraj ",
+        src: "songs/song22.mp3",
+        image: "images/song22.jpg"
+    },
+
+    {
+        title: "Yaar Intha",
+        artist: "Yuvan Shankar",
+        src: "songs/song23.mp3",
+        image: "images/song23.jpg"
+    },
+
+    {
+        title: "Idhazhin Oram",
+        artist: "Anirudh",
+        src: "songs/song24.mp3",
+        image: "images/song24.jpg"
+    },
+
+    {
+        title: "Kannazhaga",
+        artist: "Anirudh",
+        src: "songs/song25.mp3",
+        image: "images/song25.jpg"
+    },
+
+    {
+        title: "Adada Mazhaida",
+        artist: " Yuvanshankar Raja",
+        src: "songs/song26.mp3",
+        image: "images/song26.jpg"
+    },
+
+    {
+        title: "En Kadhal Solla",
+        artist: " Yuvanshankar Raja",
+        src: "songs/song27.mp3",
+        image: "images/song27.jpg"
+    },
+
+    {
+        title: "Suthuthe Suthuthe Bhoomi",
+        artist: " Yuvanshankar Raja",
+        src: "songs/song28.mp3",
+        image: "images/song28.jpg"
+    },
+
+    {
+        title: "Thuli Thuli",
+        artist: " Yuvanshankar Raja",
+        src: "songs/song29.mp3",
+        image: "images/song29.jpg"
+    },
+
+    {
+        title: "Munbe Vaa",
+        artist: "A.R Raham",
+        src: "songs/song30.mp3",
+        image: "images/song30.jpg"
     }
 
 ];
+
+
 
 
 /* ========================================
